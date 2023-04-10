@@ -9,7 +9,7 @@ import { showNotification as show, checkWin } from './helpers/helpers';
 
 import './App.css';
 
-const words = ['application', 'programming', 'interface', 'wizard'];
+const words = ['flour','ghostwriter','agenda','cruelty','visual','experiment','accumulation','compromise','attention','spontaneous','countryside','atmosphere','elaborate','substitute','conviction','cigarette','disposition'];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
 function App() {
